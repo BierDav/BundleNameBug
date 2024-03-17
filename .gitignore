@@ -1,0 +1,9 @@
+global.json
+*.DotSettings.user
+*/bin
+*/obj
+.vs
+.idea
+*/**/*.csproj.user
+**/*.log
+**/.DS_Store
